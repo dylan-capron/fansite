@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <meta name="description" content="Pour nous contacter">
+    <link rel="stylesheet" href="fansite.css">
+    <link rel="icon" href="images/icon.jpg" type="image/x-icon">
+</head>
+<body class="accueil">
+  <header>
+    <nav class="header">
+        <ul>
+            <a href="fansite.html" class="index"> <strong> Home </strong> </a>
+        </ul>
+        <ul>
+            <a href="DC.html"  class="index"> <strong> DC </strong> </a>
+        </ul>
+             <ul>
+                <a href="Marvel.html" class="index" class="dropdownbtn"> <strong> Marvel</strong> </a>
+             </ul>     
+        <ul>
+            <a href="Autres.html" class="index"> <strong> Autres </strong> </a>
+        </ul>
+
+        <ul>
+            <a href="contact.html" class="index"> <strong> Contact </strong> </a>
+        </ul>
+        <ul>
+            <input id="searchbar" onkeyup="Recherche()" type="text" name="search" placeholder="" class="test"
+        </ul>
+    </nav>
+</header>
+    <main>
+    <h1 class="Engagements"> Pour nous contacter </h1>
+  <form action="formulaire de contact" method="post">
+    <label for="pet-select">Civilité</label>
+
+    <select name="civilité--" id="sélection-civilité">
+      <option value="">--Choisissez votre civilité--</option>
+      <option value="Mr">Mr</option>
+      <option value="Mme">Mme</option>
+      <option value="Mlle">Mlle</option>
+    </select><br><br>
+    
+    <div>Nom :</div> <input type="nom">
+    <div>Prenom :</div> <input type="prenom">
+    <div>Email :</div> <input type="email"> <br>
+    
+
+    <label for="commentaire">Commentaire :</label><br><br>
+    <textarea id="commentaire" name="commentaire" rows="4" required></textarea><br><br><br><br>
+      <input type="submit" value="Envoyer le formulaire" />
+  </form>
+  <div class="flex">
+    <a href="https://www.instagram.com/dyl4n06_de_riv/"><img src="images/logo_instagram.png" alt="Instagram" width="40%" height="40%"></a>
+    <a href="https://www.youtube.com/channel/UC7yasZW-9CwmQ2TZ0aNvnJA"><img src="images/YouTube_social_white_squircle.svg.png" alt="Youtube" width="40%" height="40%" class="Chris" ></a>
+  </div>
+  </main>
+  <footer>
+    <nav class="footer">
+        <a href="fansite.html" class="index2"> <strong> Home </strong> </a>
+        <a href="DC.html" class="index2"> <strong> DC </strong> </a>
+        <a href="Marvel.html" class="index2"> <strong> Marvel</strong> </a>
+        <a href="Autres.html" class="index2"> <strong> Autres </strong> </a>
+        <a href="Contact.html" class="index2"> <strong> Contact </strong> </a>
+    </nav>
+</footer>
+</body>
+</html>

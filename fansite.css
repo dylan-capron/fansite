@@ -1,0 +1,663 @@
+/* Pour la barre de navigation */
+.header{
+    height: 50px;
+    margin: 0;
+    padding: 0%;
+    background-image: url(images/Header.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 5px solid black;
+
+}
+
+  .footer{
+      height: 50px;
+      margin: 0;
+      padding: 0%;
+      background-image: url(images/Footer.png);
+      background-size: cover;
+      background-repeat: no-repeat;}
+  .footer{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: center;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      border: 5px solid black;
+    }
+
+    .presentation {
+      display: flex;
+      flex-direction:column;
+      align-items: center;
+    }
+
+    .presentation2 {
+      display: flex;
+      flex-direction:column;
+      align-items: center;
+      color: white;
+    }
+
+    .presentation3 {
+      display: flex;
+      flex-direction:column;
+      align-items: center;
+      color: white;
+      background-color: black;
+    }
+
+    .presentation4 {
+      display: flex;
+      flex-direction:column;
+      align-items: center;
+      color: black;
+    }
+    .Enfance{
+      color: white;
+    }
+
+    .Enfance2{
+      color: white;
+      background-color: black;
+    }
+.banniere{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.accueil{
+    background-image: url(images/Fond.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.DC{
+  background-image: url(images/wp2043920.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.Marvel{
+  background-image: url(images/8d0100fc253e05598f1dd552e60154aa.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Autres{
+  background-image: url(images/7193f174d129ff745e2f8827640b4508.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.TBU{
+  background-image: url(images/TheBoysUniverse.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.TB{
+  background-image: url(images/the-boys-amazing-seven-o6g0ozreh7h2v048.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.GV{
+  background-image: url(images/thumb-1920-1333305.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.WNV{
+  background-image: url(images/p0gqgxs4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.SO{
+  background-image: url(images/510214.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.WNHommages{
+  background-image: url(images/Trenzalore.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Hartnell{
+  background-image: url(images/HartnellFeature.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Sladen{
+  background-image: url(images/MV5BZDI0YTZhODAtZmU3Zi00NWEyLWI4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Cribbins{
+  background-image: url(images/doctor-who-wilfred-mott-bernard.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.PR{
+  background-image: url(images/24ce1f76de6ebf4ffd294dcc8e7720ec.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.PR2{
+  background-image: url(images/forever_red___disney_era_by_gear.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.PR3{
+  background-image: url(images/forever_red___neo_saban_era_by_g.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.PR4{
+  background-image: url(images/Power-Rangers-Cosmic-Fury-Wallpa.jpg);
+  background-size: cover;
+  background-repeat: no-repeat
+}
+.PR5{
+  background-image: url(images/attachment-power-rangers-tribute.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.ThuyTrang{
+  background-image: url(images/power_rangers_thuy_trang_wallpap.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.JDF{
+  background-image: url(images/RIP_JDF.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.MarvelHistoire{
+  background-image: url(images/1dbb8c223bba8d37186db10c3388a15a.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.MarvelHommages{
+  background-image: url(images/mort-de-stan-lee-le-createur-des-super-heros-marvel-a-95-ans.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Histoire{
+  background-image: url(images/ZLRMIHNWWJAEHJT2GYCOJ27HXE.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Histoire2{
+  background-image: url(images/xXdD2AL.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Histoire3{
+  background-image: url(images/ugubjnl.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Histoire4{
+  background-image: url(images/89485152.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.adaptations{
+  background-image: url(images/crisis-on-infinite-earths-tv-series-crossover-supergirl-1920x1080-5647.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Films{
+  background-image: url(images/wp5840485.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.TV{
+  background-image: url(images/dc_television_universe_hi_res_wallpaper_by_dan_zhbanov_d9sbnlx-414w-2x.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Smallville{
+  background-image: url(images/smallvillefond.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.Arrowverse{
+  background-image: url(images/blim6s3aqrc51.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.Arrowverse2{
+  background-image: url(images/563836-the-flash-arrow.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.Arrowverse3{
+  background-image: url(images/av_gs_732782389238939032-2000-2c.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Arrow{
+  background-image: url(images/317172.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.Flash{
+  background-image: url(images/dbbgeg5-babfa989-7db9-404d-80b9-b35e99a4a1c7.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.Constantine{
+  background-image: url(images/téléchargé.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Supergirl{
+  background-image: url(images/614303.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.LegendsofTomorrow{
+    background-image: url(images/legends-of-tomorrow-cast-d0yremallvvgr9q8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.BlackLightning{
+  background-image: url(images/1132162.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Batwoman{
+  background-image: url(images/1183739.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Gotham{
+  background-image: url(images/Gotham.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Titans{
+  background-image: url(images/Titans.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.DP{
+  background-image: url(images/wallpapersden.com_official-doom-patrol-poster-hd_2000x1125.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.SD{
+  background-image: url(images/Sandman.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.FlashvsArrow{
+  background-image: url(images/FlashvsArrow2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.HeroesJoinForces{
+  background-image: url(images/HJF.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.WorldsFinest{
+  background-image: url(images/WF.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.Invasion{
+  background-image: url(images/Invasion2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Duet{
+  background-image: url(images/Duet.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.COEX{
+  background-image: url(images/COEX.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.Elseworlds{
+  background-image: url(images/elseworlds.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.COIE{
+  background-image: url(images/COIE.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.Armageddon{
+  background-image: url(images/Armageddon.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.IMIDI{
+  background-image: url(images/the-flash-its-my-party-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.animation{
+  background-image: url(images/wp10351506.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Timmverse{
+  background-image: url(images/DC-Animated-Universe-Complete-Ti.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.DCAMU{
+  background-image: url(images/wp11259491.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Tomorrowverse{
+  background-image: url(images/Warworld-jpg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Hommages{
+  background-image: url(images/PEREZTRIBUTE.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.hommage1{
+  display: flex;
+  flex-direction: row;
+  align-items: space-between;
+  justify-content: space-between;
+}
+.ChristopherReeve{
+  background-image: url(images/christopher-reeve-b4yaeqq9srd0dh8v.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.HeathLedger{
+  background-image: url(images/fe92f2e98ced6c62c734992042d40e8f.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.LoganWilliams{
+  background-image: url(images/logan-williams-the-flash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.KevinConroy{
+  background-image: url(images/dfhk5aq-41a70f3d-a255-4d82-82e7-ca58ba97aaf8.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.CarmineInfantino{
+  background-image: url(images/carmine.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.KeithGiffen{
+  background-image: url(images/lobo-1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.GeorgePerez{
+  background-image: url(images/images.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.JRS{
+  background-image: url(images/Pluriverse-Cover.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+
+.header2{
+  height: 50px;
+  margin: 0;
+  padding: 0%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 5px solid black;
+  border-radius: 2%;
+}
+
+.footer2{
+  height: 50px;
+  margin: 0;
+  padding: 0%;
+  display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: center;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      border: 5px solid black;
+      border-radius: 2%;
+      background-color: transparent;
+    }
+
+.banniere2{
+    float: right;
+    background-repeat: no-repeat;
+}
+.logo {
+  flex: 0.2;
+}
+
+.logo img {
+  display: flex;
+  margin: 0 auto;
+}
+
+.index{
+    color: rgb(255, 255, 255);
+}
+
+.index2{
+  color: white;
+}
+.a{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.texte{
+ display: flex;
+ justify-content: space-between;
+ align-items: space-between;
+ font-size: larger;
+ font-style:italic;
+ color:whitesmoke;
+}
+
+.texte2{
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+  font-size: larger;
+  font-style:italic;
+  color:whitesmoke;
+ }
+
+ .texte3{
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+  font-size: larger;
+  font-style:italic;
+  background-image: url(images/c19gw2z8mh941.jpg);
+  background-repeat: no-repeat;
+  color:whitesmoke;
+ }
+
+ .texte4{
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+  font-size: larger;
+  font-style:italic;
+  background-image: url(images/ugubjnl.jpg);
+  background-repeat: no-repeat;
+  color:whitesmoke;
+ }
+
+.actus{
+  display: flex
+}
+.images{
+  float: right;
+}
+
+.News{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.column{
+  display: flex;
+  flex-direction: column;
+}
+
+.DCTV{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: space-between;
+}
+
+.flex{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.center{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.center2{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  opacity: 0%;
+}
+.video{
+  float: right;
+}
+
+.Chris{
+  float: right;
+}
+
+.TimmverseSeries{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.TimmverseFilms{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.serie{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.flex{
+    display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+  }
+ 
+  .flex2{
+    display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+  }
+
+  .flex3{
+    display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+  }
+  .hr{
+    opacity: 0%;
+  }
+  .ChadwickBoseman{
+    background-image: url(images/chadwick-boseman-close-up-photograph-roy4d9hvx22acjmr.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
